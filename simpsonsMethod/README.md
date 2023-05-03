@@ -7,11 +7,11 @@ be used on the last subinterval. A warning is issued to the user when
 this is the case. 
 ---
 ## Inputs
-x = the vector of equally spaced independent variable
-y = the vector of function values with respect to x
+1. x = the vector of equally spaced independent variable
+2. y = the vector of function values with respect to x
 ---
 ## Outputs:
-I = the numerical integral calculated
+1. I = the numerical integral calculated
 ---
 ## Warnings:
 1. Odd # of subintervals - Warns user when a trapezoidal approximation on the last interval if
