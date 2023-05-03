@@ -18,7 +18,7 @@ matrix.
 ---
 ## Example: 
 Solving a contrived system of heat flow between rooms
-1. HeatFlow = [0,5,0;10,0,5;15,10,5]
+1. heatFlow = [0,5,0;10,0,5;15,10,5]
 
 2. [L, U, P] = luFactor(heatFlow)
 
