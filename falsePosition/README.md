@@ -22,8 +22,8 @@ iterations needed to meet the stopping criteria.
 ---
 ## Example: 
 ### Finding the root of a polynomial
-func = @(x) x.^3 + 7
-xl = -3
-xu = -1
-es = 0.01 : theoretical desired error
-maxit : optional limit
+1. func = @(x) x.^3 + 7
+2. xl = -3
+3. xu = -1
+4. es = 0.01 : theoretical desired error
+5. maxit : optional limit
