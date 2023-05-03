@@ -15,8 +15,8 @@ its accuracy.
 4. intercept: y-intercept of the linear regression y=mx+b
 5. Rsquared: R^2, a.k.a. coefficient of determination (measure of accuracy)
 ---
-##Example: 
-###Experimentally determining absolute zero in kelvin:
+## Example: 
+### Experimentally determining absolute zero in kelvin:
 x = Temperature of ideal gas (Kelvin)
 y = Pressure at constant volume (Pa)
 
