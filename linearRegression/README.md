@@ -8,6 +8,7 @@ its accuracy.
 ## Inputs:
 1. x: x-values for our data set
 2. y: y-values for our data set
+---
 ## Outputs:
 1. fX: x-values with outliers removed
 2. fY: y-values with outliers removed
@@ -17,8 +18,8 @@ its accuracy.
 ---
 ## Example: 
 ### Experimentally determining absolute zero in kelvin:
-x = Temperature of ideal gas (Kelvin)
-y = Pressure at constant volume (Pa)
+1. x = Temperature of ideal gas (Kelvin)
+2. y = Pressure at constant volume (Pa)
 
 For this example, the linear regression fit line will show the trend
 extrapolated to the origin, proving absolute zero at 0 Kelvin. 
