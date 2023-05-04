@@ -49,3 +49,4 @@ while ea > es && iter < maxit
 end
 fx = func(xr);
 root = xr;
+end
